@@ -56,13 +56,14 @@ Implemented a simple image denoising model with U-Net architecture.
 🔹 Module 10: Reinforcement Learning and AI Agents
 Explored reward systems, policy gradients, and Q-learning.
 
-final 
+FINAL- 
 Developed a simple research assistant agent prototype. 
 which can be found at https://github.com/keremycdg/ai_agent_with_react-and-webSearch
 
 
 
  Key Skills Learned
+ 
 Neural network design, training, and evaluation.
 
 NLP with RNNs, LSTMs, Transformers (BERT).
