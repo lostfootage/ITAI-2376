@@ -1,11 +1,6 @@
 # ITAI-2376
 
-Welcome to my Deep Learning course portfolio! This repository contains my notes, reflections, assignments, and projects completed throughout the ITAI 2376: Deep Learning course
-
-
-
-
-
+Welcome to my Deep Learning course portfolio! This repository contains my notes, reflections, assignments, and projects completed throughout the ITAI 2376: Deep Learning course.The course offered hands-on experience in building AI models using TensorFlow, Keras, PyTorch, and cutting-edge tools like Hugging Face, Streamlit, and OpenAI APIs.
 
 
 
@@ -17,6 +12,7 @@ NumPy & JAX: For numerical computing and high-performance ML.
 
 
 Course Modules & Highlights
+
 🔹 Module 02: Introduction to ML & DL Frameworks
 Comparative analysis of ML and DL tools like TensorFlow, Keras, PyTorch, Scikit-learn.
 
@@ -60,4 +56,23 @@ Implemented a simple image denoising model with U-Net architecture.
 🔹 Module 10: Reinforcement Learning and AI Agents
 Explored reward systems, policy gradients, and Q-learning.
 
-Developed a simple research assistant agent prototype.
+final 
+Developed a simple research assistant agent prototype. 
+which can be found at https://github.com/keremycdg/ai_agent_with_react-and-webSearch
+
+
+
+ Key Skills Learned
+Neural network design, training, and evaluation.
+
+NLP with RNNs, LSTMs, Transformers (BERT).
+
+Generative AI using GANs and Diffusion Models.
+
+Frontend development with Streamlit.
+
+REST APIs with FastAPI.
+
+Model fine-tuning and deployment strategies.
+
+
