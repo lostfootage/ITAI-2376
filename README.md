@@ -77,3 +77,8 @@ REST APIs with FastAPI.
 Model fine-tuning and deployment strategies.
 
 
+REFLECTION
+
+Taking ITAI 2376 was more than just a class it felt like unlocking a new way of thinking about intelligence, creativity, and technology. At the start, I had only a basic idea of how deep learning worked. But module by module, I began to see how concepts like neural networks, convolution, and attention weren’t just buzzwords they were tools capable of solving complex, real world problems. Building my first neural network felt like learning a new language, and by the time we got to Transformers and Diffusion Models, I was amazed at how far I’d come. The course also pushed me to think about ethical AI, reproducibility, and how to communicate results clearly,skills that go beyond coding. Working with Streamlit and FastAPI showed me how to bring models to life with interactive interfaces and real world usability in mind.This course didn’t just teach me how to build models But it helped me understand why they work and how to build them. I now feel confident experimenting with new architectures, troubleshooting training issues, and even deploying AI agents. Most importantly,I’m excited to keep exploring, building, and learning beyond this class.
+
+
